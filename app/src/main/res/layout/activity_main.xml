@@ -176,7 +176,7 @@
                 android:layout_height="wrap_content"
                 android:layout_centerVertical="true"
                 android:layout_toEndOf="@id/profile_image"
-                android:text="@string/my_name"
+                android:text="@string/my_name"/>
             
         </RelativeLayout>
 
